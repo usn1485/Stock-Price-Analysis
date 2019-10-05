@@ -1,0 +1,477 @@
+
+ImprovedNeuralNet
+Hidden 1
+========
+
+Node 1 (Sigmoid)
+----------------
+Ticker = AAPL: -0.035
+Ticker = ABC: -0.042
+Ticker = AMZN: -0.155
+Ticker = T: 0.052
+Ticker = BRK-B: -0.043
+Ticker = CVS: 0.039
+Ticker = MCK: -0.010
+Ticker = UNH: -0.013
+Ticker = WMT: 0.017
+Ticker = XOM: 0.045
+Company = Apple Inc: -0.034
+Company = AmerisourceBergen Corporation: 0.044
+Company = Amazon.com, Inc: -0.178
+Company = AT&T Inc.: 0.048
+Company = Berkshire Hathaway Inc: -0.024
+Company = CVS Health Corporation: -0.044
+Company = McKesson Corporation: 0.037
+Company = UnitedHealth Group Incorporated: -0.021
+Company = Walmart Inc: 0.007
+Company = Exxon Mobil Corporation : -0.039
+Date: 0.049
+Open: -0.230
+High: -0.269
+Low: -0.202
+Adj Close: -0.217
+Volume: 0.049
+Bias: 0.052
+
+Node 2 (Sigmoid)
+----------------
+Ticker = AAPL: -0.025
+Ticker = ABC: 0.051
+Ticker = AMZN: -0.033
+Ticker = T: 0.040
+Ticker = BRK-B: 0.012
+Ticker = CVS: 0.053
+Ticker = MCK: 0.055
+Ticker = UNH: -0.033
+Ticker = WMT: 0.029
+Ticker = XOM: 0.037
+Company = Apple Inc: 0.002
+Company = AmerisourceBergen Corporation: 0.059
+Company = Amazon.com, Inc: -0.033
+Company = AT&T Inc.: 0.066
+Company = Berkshire Hathaway Inc: 0.018
+Company = CVS Health Corporation: -0.017
+Company = McKesson Corporation: 0.041
+Company = UnitedHealth Group Incorporated: -0.021
+Company = Walmart Inc: 0.064
+Company = Exxon Mobil Corporation : -0.025
+Date: -0.034
+Open: -0.032
+High: -0.075
+Low: -0.026
+Adj Close: -0.088
+Volume: 0.015
+Bias: -0.005
+
+Node 3 (Sigmoid)
+----------------
+Ticker = AAPL: -0.043
+Ticker = ABC: -0.006
+Ticker = AMZN: -0.129
+Ticker = T: 0.006
+Ticker = BRK-B: -0.062
+Ticker = CVS: 0.018
+Ticker = MCK: 0.007
+Ticker = UNH: -0.063
+Ticker = WMT: -0.065
+Ticker = XOM: -0.058
+Company = Apple Inc: -0.044
+Company = AmerisourceBergen Corporation: -0.009
+Company = Amazon.com, Inc: -0.162
+Company = AT&T Inc.: 0.016
+Company = Berkshire Hathaway Inc: -0.069
+Company = CVS Health Corporation: -0.035
+Company = McKesson Corporation: -0.042
+Company = UnitedHealth Group Incorporated: -0.060
+Company = Walmart Inc: -0.000
+Company = Exxon Mobil Corporation : 0.007
+Date: -0.005
+Open: -0.279
+High: -0.304
+Low: -0.293
+Adj Close: -0.270
+Volume: -0.030
+Bias: -0.006
+
+Node 4 (Sigmoid)
+----------------
+Ticker = AAPL: -0.013
+Ticker = ABC: -0.010
+Ticker = AMZN: -0.081
+Ticker = T: 0.050
+Ticker = BRK-B: -0.040
+Ticker = CVS: 0.004
+Ticker = MCK: 0.005
+Ticker = UNH: 0.000
+Ticker = WMT: 0.006
+Ticker = XOM: -0.005
+Company = Apple Inc: 0.039
+Company = AmerisourceBergen Corporation: 0.018
+Company = Amazon.com, Inc: -0.048
+Company = AT&T Inc.: 0.043
+Company = Berkshire Hathaway Inc: -0.016
+Company = CVS Health Corporation: 0.061
+Company = McKesson Corporation: -0.025
+Company = UnitedHealth Group Incorporated: 0.049
+Company = Walmart Inc: 0.042
+Company = Exxon Mobil Corporation : 0.050
+Date: -0.020
+Open: 0.033
+High: 0.028
+Low: -0.013
+Adj Close: 0.002
+Volume: -0.023
+Bias: -0.035
+
+Node 5 (Sigmoid)
+----------------
+Ticker = AAPL: 0.039
+Ticker = ABC: 0.031
+Ticker = AMZN: -0.068
+Ticker = T: 0.051
+Ticker = BRK-B: 0.014
+Ticker = CVS: 0.045
+Ticker = MCK: 0.023
+Ticker = UNH: 0.035
+Ticker = WMT: -0.022
+Ticker = XOM: -0.008
+Company = Apple Inc: 0.009
+Company = AmerisourceBergen Corporation: 0.062
+Company = Amazon.com, Inc: -0.058
+Company = AT&T Inc.: 0.034
+Company = Berkshire Hathaway Inc: 0.024
+Company = CVS Health Corporation: 0.011
+Company = McKesson Corporation: -0.008
+Company = UnitedHealth Group Incorporated: 0.035
+Company = Walmart Inc: 0.037
+Company = Exxon Mobil Corporation : 0.065
+Date: -0.026
+Open: -0.003
+High: 0.001
+Low: -0.001
+Adj Close: -0.005
+Volume: 0.055
+Bias: -0.009
+
+Node 6 (Sigmoid)
+----------------
+Ticker = AAPL: 0.005
+Ticker = ABC: 0.040
+Ticker = AMZN: 0.071
+Ticker = T: 0.044
+Ticker = BRK-B: -0.015
+Ticker = CVS: 0.034
+Ticker = MCK: 0.062
+Ticker = UNH: 0.008
+Ticker = WMT: 0.019
+Ticker = XOM: 0.020
+Company = Apple Inc: -0.026
+Company = AmerisourceBergen Corporation: -0.030
+Company = Amazon.com, Inc: 0.073
+Company = AT&T Inc.: 0.009
+Company = Berkshire Hathaway Inc: -0.001
+Company = CVS Health Corporation: 0.038
+Company = McKesson Corporation: -0.010
+Company = UnitedHealth Group Incorporated: 0.058
+Company = Walmart Inc: 0.064
+Company = Exxon Mobil Corporation : 0.021
+Date: 0.071
+Open: 0.181
+High: 0.240
+Low: 0.253
+Adj Close: 0.208
+Volume: 0.004
+Bias: -0.054
+
+Node 7 (Sigmoid)
+----------------
+Ticker = AAPL: 0.031
+Ticker = ABC: 0.045
+Ticker = AMZN: -0.128
+Ticker = T: 0.075
+Ticker = BRK-B: -0.004
+Ticker = CVS: -0.008
+Ticker = MCK: 0.059
+Ticker = UNH: -0.001
+Ticker = WMT: -0.021
+Ticker = XOM: -0.008
+Company = Apple Inc: -0.018
+Company = AmerisourceBergen Corporation: -0.003
+Company = Amazon.com, Inc: -0.091
+Company = AT&T Inc.: 0.055
+Company = Berkshire Hathaway Inc: 0.032
+Company = CVS Health Corporation: 0.040
+Company = McKesson Corporation: 0.047
+Company = UnitedHealth Group Incorporated: -0.027
+Company = Walmart Inc: 0.052
+Company = Exxon Mobil Corporation : 0.032
+Date: 0.047
+Open: -0.166
+High: -0.100
+Low: -0.110
+Adj Close: -0.110
+Volume: 0.059
+Bias: 0.030
+
+Node 8 (Sigmoid)
+----------------
+Ticker = AAPL: 0.015
+Ticker = ABC: -0.002
+Ticker = AMZN: -0.123
+Ticker = T: 0.038
+Ticker = BRK-B: -0.034
+Ticker = CVS: 0.032
+Ticker = MCK: -0.025
+Ticker = UNH: -0.036
+Ticker = WMT: 0.034
+Ticker = XOM: -0.015
+Company = Apple Inc: 0.034
+Company = AmerisourceBergen Corporation: -0.001
+Company = Amazon.com, Inc: -0.098
+Company = AT&T Inc.: 0.062
+Company = Berkshire Hathaway Inc: -0.004
+Company = CVS Health Corporation: 0.025
+Company = McKesson Corporation: 0.019
+Company = UnitedHealth Group Incorporated: 0.021
+Company = Walmart Inc: 0.020
+Company = Exxon Mobil Corporation : 0.044
+Date: -0.024
+Open: -0.138
+High: -0.169
+Low: -0.172
+Adj Close: -0.169
+Volume: -0.000
+Bias: 0.001
+
+Node 9 (Sigmoid)
+----------------
+Ticker = AAPL: 0.027
+Ticker = ABC: -0.036
+Ticker = AMZN: 0.017
+Ticker = T: 0.014
+Ticker = BRK-B: 0.016
+Ticker = CVS: -0.034
+Ticker = MCK: -0.035
+Ticker = UNH: -0.005
+Ticker = WMT: -0.040
+Ticker = XOM: -0.029
+Company = Apple Inc: 0.043
+Company = AmerisourceBergen Corporation: -0.009
+Company = Amazon.com, Inc: 0.012
+Company = AT&T Inc.: -0.043
+Company = Berkshire Hathaway Inc: -0.015
+Company = CVS Health Corporation: -0.019
+Company = McKesson Corporation: 0.002
+Company = UnitedHealth Group Incorporated: 0.016
+Company = Walmart Inc: -0.017
+Company = Exxon Mobil Corporation : 0.020
+Date: -0.026
+Open: 0.163
+High: 0.182
+Low: 0.183
+Adj Close: 0.186
+Volume: 0.022
+Bias: 0.036
+
+Node 10 (Sigmoid)
+-----------------
+Ticker = AAPL: 0.055
+Ticker = ABC: 0.065
+Ticker = AMZN: -0.117
+Ticker = T: 0.051
+Ticker = BRK-B: 0.024
+Ticker = CVS: 0.061
+Ticker = MCK: 0.025
+Ticker = UNH: 0.034
+Ticker = WMT: 0.021
+Ticker = XOM: 0.067
+Company = Apple Inc: -0.034
+Company = AmerisourceBergen Corporation: 0.063
+Company = Amazon.com, Inc: -0.059
+Company = AT&T Inc.: -0.024
+Company = Berkshire Hathaway Inc: 0.040
+Company = CVS Health Corporation: -0.019
+Company = McKesson Corporation: 0.018
+Company = UnitedHealth Group Incorporated: 0.029
+Company = Walmart Inc: 0.053
+Company = Exxon Mobil Corporation : 0.032
+Date: 0.065
+Open: -0.137
+High: -0.090
+Low: -0.184
+Adj Close: -0.169
+Volume: 0.060
+Bias: -0.048
+
+Node 11 (Sigmoid)
+-----------------
+Ticker = AAPL: 0.012
+Ticker = ABC: -0.024
+Ticker = AMZN: -0.011
+Ticker = T: -0.032
+Ticker = BRK-B: 0.013
+Ticker = CVS: -0.025
+Ticker = MCK: -0.026
+Ticker = UNH: -0.033
+Ticker = WMT: 0.061
+Ticker = XOM: 0.011
+Company = Apple Inc: -0.017
+Company = AmerisourceBergen Corporation: -0.014
+Company = Amazon.com, Inc: -0.030
+Company = AT&T Inc.: -0.018
+Company = Berkshire Hathaway Inc: 0.051
+Company = CVS Health Corporation: 0.035
+Company = McKesson Corporation: 0.012
+Company = UnitedHealth Group Incorporated: 0.016
+Company = Walmart Inc: -0.034
+Company = Exxon Mobil Corporation : -0.020
+Date: 0.026
+Open: -0.017
+High: -0.033
+Low: -0.049
+Adj Close: 0.004
+Volume: 0.045
+Bias: 0.012
+
+Node 12 (Sigmoid)
+-----------------
+Ticker = AAPL: 0.053
+Ticker = ABC: 0.044
+Ticker = AMZN: -0.109
+Ticker = T: -0.002
+Ticker = BRK-B: -0.023
+Ticker = CVS: 0.036
+Ticker = MCK: -0.012
+Ticker = UNH: 0.010
+Ticker = WMT: 0.042
+Ticker = XOM: 0.034
+Company = Apple Inc: -0.011
+Company = AmerisourceBergen Corporation: -0.020
+Company = Amazon.com, Inc: -0.099
+Company = AT&T Inc.: 0.005
+Company = Berkshire Hathaway Inc: 0.049
+Company = CVS Health Corporation: 0.022
+Company = McKesson Corporation: -0.020
+Company = UnitedHealth Group Incorporated: 0.024
+Company = Walmart Inc: 0.019
+Company = Exxon Mobil Corporation : 0.038
+Date: -0.012
+Open: -0.064
+High: -0.071
+Low: -0.135
+Adj Close: -0.092
+Volume: 0.010
+Bias: -0.041
+
+Node 13 (Sigmoid)
+-----------------
+Ticker = AAPL: -0.019
+Ticker = ABC: -0.027
+Ticker = AMZN: 0.039
+Ticker = T: -0.022
+Ticker = BRK-B: 0.008
+Ticker = CVS: -0.042
+Ticker = MCK: 0.033
+Ticker = UNH: -0.044
+Ticker = WMT: -0.013
+Ticker = XOM: -0.025
+Company = Apple Inc: -0.014
+Company = AmerisourceBergen Corporation: 0.047
+Company = Amazon.com, Inc: 0.031
+Company = AT&T Inc.: 0.036
+Company = Berkshire Hathaway Inc: -0.037
+Company = CVS Health Corporation: -0.016
+Company = McKesson Corporation: 0.014
+Company = UnitedHealth Group Incorporated: 0.016
+Company = Walmart Inc: -0.020
+Company = Exxon Mobil Corporation : -0.019
+Date: -0.001
+Open: 0.137
+High: 0.132
+Low: 0.145
+Adj Close: 0.056
+Volume: -0.001
+Bias: -0.006
+
+Node 14 (Sigmoid)
+-----------------
+Ticker = AAPL: 0.014
+Ticker = ABC: 0.010
+Ticker = AMZN: -0.043
+Ticker = T: 0.062
+Ticker = BRK-B: 0.012
+Ticker = CVS: 0.067
+Ticker = MCK: 0.040
+Ticker = UNH: 0.060
+Ticker = WMT: 0.034
+Ticker = XOM: 0.037
+Company = Apple Inc: -0.002
+Company = AmerisourceBergen Corporation: -0.023
+Company = Amazon.com, Inc: -0.101
+Company = AT&T Inc.: -0.019
+Company = Berkshire Hathaway Inc: 0.026
+Company = CVS Health Corporation: 0.066
+Company = McKesson Corporation: -0.002
+Company = UnitedHealth Group Incorporated: -0.007
+Company = Walmart Inc: 0.061
+Company = Exxon Mobil Corporation : 0.022
+Date: 0.044
+Open: -0.119
+High: -0.121
+Low: -0.068
+Adj Close: -0.152
+Volume: 0.009
+Bias: -0.045
+
+Node 15 (Sigmoid)
+-----------------
+Ticker = AAPL: -0.055
+Ticker = ABC: -0.031
+Ticker = AMZN: -0.146
+Ticker = T: -0.035
+Ticker = BRK-B: -0.098
+Ticker = CVS: -0.013
+Ticker = MCK: -0.032
+Ticker = UNH: -0.054
+Ticker = WMT: -0.068
+Ticker = XOM: -0.011
+Company = Apple Inc: -0.020
+Company = AmerisourceBergen Corporation: -0.059
+Company = Amazon.com, Inc: -0.147
+Company = AT&T Inc.: 0.001
+Company = Berkshire Hathaway Inc: -0.066
+Company = CVS Health Corporation: -0.045
+Company = McKesson Corporation: -0.065
+Company = UnitedHealth Group Incorporated: -0.091
+Company = Walmart Inc: -0.076
+Company = Exxon Mobil Corporation : -0.018
+Date: -0.104
+Open: -0.318
+High: -0.308
+Low: -0.341
+Adj Close: -0.284
+Volume: -0.027
+Bias: 0.012
+
+
+Output
+======
+
+Regression (Linear)
+-------------------
+Node 1: -0.491
+Node 2: -0.011
+Node 3: -0.607
+Node 4: 0.112
+Node 5: 0.064
+Node 6: 0.653
+Node 7: -0.176
+Node 8: -0.266
+Node 9: 0.569
+Node 10: -0.246
+Node 11: 0.090
+Node 12: -0.097
+Node 13: 0.394
+Node 14: -0.144
+Node 15: -0.658
+Threshold: 0.480
